@@ -1,4 +1,4 @@
-# Trainer Progress Tracker
+ # Trainer Progress Tracker
 
 A standalone build of the trainer/trainee tracking app, ready to push to
 GitHub and host on GitHub Pages so tablets can open it as a URL (or as
