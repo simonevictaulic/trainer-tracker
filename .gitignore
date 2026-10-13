@@ -1,3 +1,5 @@
 node_modules
 dist
-.DS_Store
+.env
+# archived trainee data downloaded from the app — never commit
+completed-trainees-*.json
